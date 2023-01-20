@@ -11,4 +11,5 @@ multiplyByTwo(1,2,3,4,5,6); // результат [2,4,6,7,10,12]
 
 ## Демо:
 
-<a href="https://albannikov.github.io/array/"></a>
+<a href="https://albannikov.github.io/array/" target="_blank">https://albannikov.github.io/array/</a>
+
